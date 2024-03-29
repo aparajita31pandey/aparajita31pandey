@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi, I'm Aparajita! 👋
+### Hi, I'm Aparajita! 👋
 
 A backend engineer working with distributed systems. I currently work at Uber, designing, building and maintaining the APIs that power the company's Cloud product. 
 
