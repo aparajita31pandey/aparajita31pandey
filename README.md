@@ -1,29 +1,24 @@
 ### Hi, I'm Aparajita! 👋
 
-A backend engineer working with distributed systems. I currently work at Uber, designing, building and maintaining the APIs that power the company's Cloud product. 
+I'm a backend engineer with a passion for building distributed systems. Currently, I'm part of the Uber team, where I focus on designing and constructing a Search Solution using Lucene.
 
-I am focused on writing software that isn’t a pain in the ass for the next person who works with it or rather less crudely put, is well tested, documented and observable. I believe user empathy is an important consideration while designing APIs. I try to stay away from premature optimisation and consider writing documentation as important as development.
+My approach to software development is all about making life easier for the next person who interacts with it. I strive to ensure that my code is well-tested, thoroughly documented, and easily observable. User empathy plays a big role in my API design process, and I prioritize clear documentation as much as coding itself.
 
-I mainly work with Golang these days, briefly explored Rust and have Python experience.  You can reach out to me on mail <a href="mailto:contact@aparajita31pandey@gmail.com" target="_blank" rel="noreferrer">aparajita31pandey@gmail.com</a> or on [Twitter](https://twitter.com/Aparajta)! 
+These days, I'm primarily working with Golang and Java, though I also have experience with Python. I've delved deep into various data storage solutions, including PostgreSQL, MySQL, Redis, Aerospike, Elasticsearch, Kafka, and a few others. You can reach out to me on mail <a href="mailto:contact@aparajita31pandey@gmail.com" target="_blank" rel="noreferrer">aparajita31pandey@gmail.com</a> or on [Twitter](https://twitter.com/Aparajta)! 
  
-
-
-
 ## Challenges 
 
-Since late last year, I have discovered the joy of solving coding challenges with a strong community presense. 
+Since early this year, I have discovered the joy of solving coding challenges with a strong community presense. 
 
-
-
-If you know about more challenges that I should try, please write to me! 
+If you know about any challenge that I should try, please write to me! 
 
 ## Write 
 
-I believe writing cements understanding and boosts clarity. Some of my select posts: 
+ I've realized that writing really helps me grasp things better and makes everything clearer. So, after scrolling through loads of blogs over the years, I've finally jumped in and started writing for them myself.
+
+ Oh, and by the way, keep an eye out for my upcoming Uber blog focused on engineering. It's gonna be awesome! Stay tuned!"
 
 
-
-## Talks 
 
 
 <!--
