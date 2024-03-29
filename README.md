@@ -4,7 +4,7 @@ A backend engineer working with distributed systems. I currently work at Uber, d
 
 I am focused on writing software that isn’t a pain in the ass for the next person who works with it or rather less crudely put, is well tested, documented and observable. I believe user empathy is an important consideration while designing APIs. I try to stay away from premature optimisation and consider writing documentation as important as development.
 
-I mainly work with Golang these days, briefly explored Rust and have Python experience.  You can reach out to me on mail <a href="mailto:contact@aparajita31pandey@gmail.com" target="_blank" rel="noreferrer">contact@aparajita31pandey@gmail.com</a> or on [Twitter](https://twitter.com/Aparajta)! 
+I mainly work with Golang these days, briefly explored Rust and have Python experience.  You can reach out to me on mail <a href="mailto:contact@aparajita31pandey@gmail.com" target="_blank" rel="noreferrer">aparajita31pandey@gmail.com</a> or on [Twitter](https://twitter.com/Aparajta)! 
  
 
 
