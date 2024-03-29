@@ -1,6 +1,6 @@
 ### Hi, I'm Aparajita! 👋
 
-I'm a backend engineer working with building distributed systems. Currently, I'm part of the Uber team, where I focus on designing and constructing a Search Solution using Lucene.
+I'm a backend engineer working with distributed systems. Currently, I'm part of the Uber team, where I focus on designing and constructing a Search Solution using Lucene.
 
 My approach to software development is all about making life easier for the next person who interacts with it. I strive to ensure that my code is well-tested, thoroughly documented, and easily observable. User empathy plays a big role in my API design process, and I prioritize clear documentation as much as coding itself.
 
