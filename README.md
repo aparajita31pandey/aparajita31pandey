@@ -16,7 +16,8 @@ If you know about any challenge that I should try, please write to me!
 
  I've realized that writing really helps me grasp things better and makes everything clearer. So, after scrolling through loads of blogs over the years, I've finally jumped in and started writing for them myself.
 
- Oh, and by the way, keep an eye out for my upcoming Uber blog focused on engineering. It's gonna be awesome! Stay tuned!
+ Oh, and by the way, Check out my very first Uber Engineering blog on Lucene Migration! 📝 Dive into the details and let me know your thoughts.  https://www.uber.com/en-IN/blog/lucene-version-upgrade/
+It's gonna be awesome! Stay tuned for more!
 
 
 
