@@ -20,6 +20,7 @@ If you know about any challenge that I should try, please write to me!
 It's gonna be awesome! Stay tuned for more!
 
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
 
 <!--
