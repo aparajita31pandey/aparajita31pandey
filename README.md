@@ -9,7 +9,6 @@ These days, I'm primarily working with Golang and Java, though I also have exper
 ## Challenges 
 
 Since early this year, I have discovered the joy of solving coding challenges with a strong community presense. 
-
 If you know about any challenge that I should try, please write to me! 
 
 ## Write 
@@ -17,8 +16,6 @@ If you know about any challenge that I should try, please write to me!
  I've realized that writing really helps me grasp things better and makes everything clearer. So, after scrolling through loads of blogs over the years, I've finally jumped in and started writing for them myself.
 
  Oh, and by the way, Check out my very first Uber Engineering blog on Lucene Migration! 📝 Dive into the details and let me know your thoughts.  https://www.uber.com/en-IN/blog/lucene-version-upgrade/
-It's gonna be awesome! Stay tuned for more!
-
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aparajita31pandey)
 
